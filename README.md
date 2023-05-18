@@ -1,3 +1,5 @@
+[![Deploy to Baseten](https://user-images.githubusercontent.com/2389286/236301770-16f46d4f-4e23-4db5-9462-f578ec31e751.svg)](https://app.baseten.co/explore/stablelm)
+
 # StableLM Truss
 
 This repository packages [StableLM](https://github.com/Stability-AI/StableLM) as a [Truss](https://truss.baseten.co).
